@@ -8,5 +8,7 @@ We know sign language has many sign, shape and gesture.so it hard to know of the
 ### Objective
 
 •	To develop the sign language system that can recognize the sign language that being presented or show in camera.
+
 •	To design a sentence generator that generate word or sentence when recognizing the sign language that being recognize.
+
 •	To implement the sign languages system that can help the people to understand disable people in conveying their message
